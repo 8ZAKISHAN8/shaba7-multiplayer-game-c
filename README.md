@@ -4,6 +4,13 @@ A 2D platformer action game inspired by the Egyptian movie **El Shabah (الشب
 The game features both **Single Player** and **Online Multiplayer** modes with platform movement, enemy AI, knife attacks, sound effects, animated cutscenes, and networking using WinSock.
 
 ---
+## Media 🎥📸
+
+### Gameplay Video
+[▶️ Watch Gameplay](./El%20Shabah%20game%20record_compressed.mp4)
+
+### Main Menu Screenshot
+![El Shabah Main Menu](./El%20Shabah%20main%20menu.png)
 
 ## Features ✨
 
