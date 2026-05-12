@@ -1,6 +1,6 @@
 # El Shabah 🎮
 
-A 2D platformer horror/action game inspired by the Egyptian movie **El Shabah**, developed in **C++ using Raylib**.  
+A 2D platformer action game inspired by the Egyptian movie **El Shabah**, developed in **C++ using Raylib**.  
 The game features both **Single Player** and **Online Multiplayer** modes with platform movement, enemy AI, knife attacks, sound effects, animated cutscenes, and networking using WinSock.
 
 ---
