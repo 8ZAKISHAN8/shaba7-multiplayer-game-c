@@ -7,7 +7,8 @@ The game features both **Single Player** and **Online Multiplayer** modes with p
 ## Media 🎥📸
 
 ### Gameplay Video
-<p align="center"> ///////// [▶️ Watch Gameplay](./El%20Shabah%20game%20record_compressed.mp4) ///////// </p>
+[▶️ Watch Gameplay](./El%20Shabah%20game%20record_compressed.mp4)
+
 ### Main Menu Screenshot
 ![El Shabah Main Menu](./El%20Shabah%20main%20menu.png)
 
